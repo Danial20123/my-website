@@ -1,0 +1,12 @@
+.isotest {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: black;
+}
